@@ -11,7 +11,7 @@ import subprocess
 import pyautogui
 from PIL import Image
 
-IP = '10.0.0.18'
+IP = '_______' # your IP is here
 # PHOTO_PATH = ????  # The path + filename where the screenshot at the server should be saved
 
 
