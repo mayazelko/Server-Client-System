@@ -9,7 +9,7 @@ import PIL.Image as Image
 import protocol_exe2
 
 
-IP = '10.0.0.18'
+IP = '______' # Your IP is here
 # SAVED_PHOTO_LOCATION = ???? # The path + filename where the copy of the screenshot at the client should be saved
 
 def handle_server_response(my_socket, cmd):
